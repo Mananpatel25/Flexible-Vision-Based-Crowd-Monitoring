@@ -21,7 +21,7 @@ pip install requirements.txt
 
 | **Initial Count and Inserting Counter**  | **Updated Count and New Counter** |
 | :-------------: |:-------------:|
-| ![Initial Snap](./images/Initial_Image.png)      | ![Final Snap](./images/Final_Image.png "This is a sample image.")     |
+| ![Initial Snap](Initial_Image.png)      | ![Final Snap](Final_Image.png "This is a sample image.")     |
 
 **LineSegmentCounter** : It allows user to draw line segments on the video. It also displays the count of the objects passed through the line segments.
 
